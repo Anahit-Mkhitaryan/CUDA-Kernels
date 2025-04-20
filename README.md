@@ -1,6 +1,4 @@
 
----
-
 ```markdown
 # CUDA Kernels Homework
 
@@ -63,9 +61,3 @@ Each kernel was executed 6 times. Execution times were measured using CUDA event
 
 Warp divergence can lead to significant performance penalties in GPU programming. Aligning control logic with warp boundaries improves performance by reducing branching costs.
 
-## 🔗 GitHub Link
-
-Insert your GitHub repo URL here once published.
-```
-
----
