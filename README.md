@@ -2,8 +2,7 @@
 ```markdown
 # CUDA Kernels Homework
 
-This repository contains CUDA C/C++ implementations and performance analysis of three different GPU kernel strategies, focusing on the impact of warp divergence on execution time.
-
+This repository explores three CUDA kernel strategies and analyzes their performance with respect to warp divergence.
 ## 📘 Description
 
 The goal of this project is to explore and analyze how warp divergence affects performance in CUDA kernels. We implement three kernels:
