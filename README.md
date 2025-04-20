@@ -38,7 +38,7 @@ You can run this project in **Google Colab** with CUDA support:
    ```
 
 3. Make sure your Colab runtime is set to use a **GPU**:  
-   *Runtime → Change runtime type → Hardware accelerator: GPU*
+   *Runtime → Change runtime type → Hardware accelerator: T4 GPU*
 
 ## 🧪 Performance Results
 
